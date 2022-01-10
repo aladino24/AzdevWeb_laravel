@@ -1,0 +1,34 @@
+body {
+  background-color: #dbfafa;
+}
+
+body section {
+  margin-bottom: 600px;
+}
+
+body section .login-card {
+  -webkit-box-shadow: 4px 5px 4px #888888;
+          box-shadow: 4px 5px 4px #888888;
+  border: 0.5px solid #888888;
+}
+
+body .custom-shape-divider-bottom-1628930021 {
+  position: relative;
+  bottom: -50px;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+body .custom-shape-divider-bottom-1628930021 svg {
+  position: relative;
+  display: block;
+  width: calc(125% + 1.3px);
+  height: 181px;
+}
+
+body .custom-shape-divider-bottom-1628930021 .shape-fill {
+  fill: #36A3F1;
+}
+/*# sourceMappingURL=main.css.map */
